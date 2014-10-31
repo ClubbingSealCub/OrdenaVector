@@ -7,4 +7,3 @@ public interface OrdenarVector {
     public void ordena(int[] v, DatosEstadisticos de);
 
 }
-
